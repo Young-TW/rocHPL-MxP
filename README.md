@@ -121,6 +121,7 @@ Please use [the issue tracker][] for bugs and feature requests.
 The [license file][] can be found in the main repository.
 
 [HPL-MxP]: https://hpl-mxp.org/[ROCm]: https://github.com/ROCm/ROCm
+[ROCm]: https://github.com/ROCm/ROCm
 [HIP]: https://github.com/ROCm/HIP
 [rocBLAS]: https://github.com/ROCm/rocm-libraries/tree/develop/projects/rocblas
 [rocSOLVER]: https://github.com/ROCm/rocm-libraries/tree/develop/projects/rocsolver
